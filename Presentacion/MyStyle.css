@@ -1,0 +1,71 @@
+	body{
+	background-color: #E37333;
+	background-image: url("imagenes/wirchp.png");
+	background-attachment: fixed;  /* o scroll */
+	/*background-repeat: no-repeat;*/ /* o no repeat */
+		width: auto;
+	  	margin: auto;
+	  	border: 4px solid #E37333;
+	  }
+	h1, h2 {
+		text-align: center;
+		color: #f36108 ;
+		background-image: url("https://static.vecteezy.com/system/resources/previews/000/111/033/non_2x/free-halloween-pattern-vector.png"); 
+	  	border: 5px  solid SlateBlue;
+	  }
+	div.dos {
+		background-color:rgba(119, 67, 188, .4) ;
+	}
+	div.tres {
+		color: #f36108;
+		background-color:rgba(63, 81, 181, .4) ;
+		margin: 50px;
+	  	border-style: dotted;
+	  	border-width: thick;
+	  }
+	p {
+		text-align: justify;
+		font-family: Candara;
+		font-size: 16px;
+	   	border-style: dotted;
+	  	border-width: thick;
+		background-color:rgb(72, 209, 204);
+		margin: 50px;
+	  	border-style: dotted;
+	  	border-width: thick;
+	 	padding: 45px 65px 85px 200px;
+	  	padding-bottom: 15px;
+	    padding-left: 80px;
+	    padding-right: 200px;
+	    padding-top: 60px;
+	}
+	table {
+		object-position: center;
+		text-align: center;
+		font-family: Candara;
+		border-color: rgb(72, 209, 204);
+		border-style: solid;
+		border-radius: 5px;	
+		border-spacing: 5px;
+	    border-style: groove;
+		margin:auto;	
+	}
+	th{
+	background-color: rgb(72, 209, 204);
+	font-size: 28px;
+	color:#E37333;
+} 
+	td {
+		font-size: 24px;
+		background-color:hsl(270, 100%, 60%);
+	    border-style: double;
+	}
+	img.tabla {
+		width: 154px;
+		height: 232px;
+	}
+	ol {
+		background-color:rgba(0,0,0, .4) 
+	}
+
+
